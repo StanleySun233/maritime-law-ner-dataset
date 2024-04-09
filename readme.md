@@ -78,3 +78,4 @@ Acc,Pre,Rec,F1使用百分比评估，Loss函数为CRF的损失函数。
 |模型名|Acc|Pre|Rec|F1|Los|
 |-|-|-|-|-|-|
 |[BiLSTM-CRF](https://github.com/zjy-ucas/ChineseNER)|85.62|67.20|62.76|64.90|0.21|
+|[BERT-BiLSTM-CRF-Softlexicon](https://github.com/DSXiangLi/ChineseNER)|--|86.72|--|--|--|
